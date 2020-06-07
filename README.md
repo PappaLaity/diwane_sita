@@ -1,6 +1,8 @@
 # diwane_sita
 
 Diwane Sita Baye Niass
+Mobile app with Flutter. Book of Cheikh Ibrahima NIASS
+
 
 ## Getting Started
 
